@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	D.res_ci
+	
+D.res_inci	0.0290***
+	(0.00320)
+D.agg_c	-7.31e-06***
+	(1.82e-06)
+	
+Observations	3,075
+R-squared	0.029
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
